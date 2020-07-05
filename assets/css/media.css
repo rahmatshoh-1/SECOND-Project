@@ -1,0 +1,29 @@
+@media screen and (max-width: 960px){
+
+	.container,
+	.header__offer,
+	.header__button,
+	.main__block__mission
+	{
+		border:1px solid red;
+		width: 90%;
+	}
+	.main__block_right,
+	.main__block__mission
+	{
+		float: left;
+	}
+	.main__description__img
+	{
+		display: none;
+	}
+	.main__img{
+		border:1px solid red;
+
+	}
+	.main__imgblock__container{
+	border:1px solid red;
+
+	}
+
+}
